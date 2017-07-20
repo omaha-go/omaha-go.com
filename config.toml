@@ -1,0 +1,23 @@
+baseURL = "http://www.omaha-go.com/"
+languageCode = "en-us"
+title = "Omaha Go Meetup"
+theme = "beautifulhugo"
+
+[Params]
+#  subtitle = ""
+  logo = "img/gopher.jpg"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+
+[Author]
+  name = "John Hobbs"
+  email = "john+omahago@velvetcache.org"
+  twitter = "omahagolang"
+  github = "organizations/omaha-go"  
