@@ -19,5 +19,5 @@ theme = "beautifulhugo"
 [Author]
   name = "John Hobbs"
   email = "john+omahago@velvetcache.org"
-  twitter = "omahagolang"
+  twitter = "omaha_go"
   github = "organizations/omaha-go"  
